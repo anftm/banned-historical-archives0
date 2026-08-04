@@ -2785,18 +2785,24 @@ export default {
         "page_start": 481,
         "page_end": 482,
         "title": "中央军委转发五十四军对反对派进行工作情况报告的批语",
-        "dates": [
-          {
-            "year": 1967,
-            "month": 5,
-            "day": 27
-          }
-        ],
+        "dates": [],
         "is_range_date": false,
-        "authors": [
-          "毛泽东"
-        ]
-      },
+        "authors": []
+      ,
+        "tags": [
+        {
+          "name": "毛泽东",
+          "type": "人物"
+        },
+        {
+          "name": "林彪",
+          "type": "人物"
+        },
+        {
+          "name": "重庆文革",
+          "type": "人物"
+        }
+      ]},
       {
         "page_start": 483,
         "page_end": 483,
