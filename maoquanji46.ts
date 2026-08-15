@@ -1597,20 +1597,53 @@ export default {
         "title": "对《关于一九三一年九月至一九三五年一月期间中央路线的批判》一文的批语",
         "dates": [
           {
-            "year": 1964,
-            "month": 3
+            "month": 3,
+            "year": 1964
           },
           {
-            "year": 1964,
-            "month": 1965,
-            "day": 5
+            "month": 5,
+            "year": 1965
           }
         ],
         "is_range_date": true,
         "authors": [
           "毛泽东"
         ]
-      },
+      ,
+        "tags": [
+        {
+          "name": "周恩来",
+          "type": "人物"
+        },
+        {
+          "name": "谢富治",
+          "type": "人物"
+        },
+        {
+          "name": "陶铸",
+          "type": "人物"
+        },
+        {
+          "name": "陈毅",
+          "type": "人物"
+        },
+        {
+          "name": "毛泽东",
+          "type": "人物"
+        },
+        {
+          "name": "刘少奇",
+          "type": "人物"
+        },
+        {
+          "name": "王明",
+          "type": "人物"
+        },
+        {
+          "name": "批示",
+          "type": "文稿类型"
+        }
+      ]},
       {
         "page_start": 316,
         "page_end": 317,
